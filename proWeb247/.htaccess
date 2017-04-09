@@ -1,0 +1,2 @@
+RewriteEngine On
+Redirect 301 proweb247.github.io https://proweb247.github.io/proWeb247/business/app/
